@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java-11-openjdk-amd64">
+    <CLASSES>
+      <root url="file:///usr/lib/jvm/java-11-openjdk-amd64" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
